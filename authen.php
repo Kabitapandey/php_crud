@@ -1,8 +1,4 @@
-<?php
-//require_once "fetch.php";
-//checking whether the  value is set or not using isset function
-/**/
-?>
+
 
 <!DOCTYPE html>
 <html lang="en">

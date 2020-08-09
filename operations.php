@@ -54,7 +54,7 @@ class table
 }
 
 $obj = new table();
-//$obj->createDatabase("student");
+$obj->createDatabase("student");
 $obj->createTable("record");
 $obj->table2("login");
 $obj->table3("register");
